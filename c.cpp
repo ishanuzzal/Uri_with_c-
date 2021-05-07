@@ -70,7 +70,7 @@ int main()
               printf("\n");
             }
 
-        printf("\n");
+        printf("\n");//hudai comment korci
 
     }
 
